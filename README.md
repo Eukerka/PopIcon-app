@@ -8,14 +8,14 @@
 <img src="https://github.com/user-attachments/assets/4ea0a7bb-7b7e-4715-80f6-691358eb7d6b"
      width="180" height="180" alt="PopIcon" />
 <br/><br/>
-<a href="../../releases/latest">
+<a href="https://popiconbin.ru/?download=true">
   <img src="https://img.shields.io/badge/Download-5%20MB-blue?style=for-the-badge" />
 </a>
 <a href="https://boosty.to/eukerka">
   <img src="https://img.shields.io/badge/Boosty-donate🙏-orange?style=for-the-badge" />
 </a>
-<a href="https://example.com">
-  <img src="https://img.shields.io/badge/Site-PopIcon-black?style=for-the-badge" />
+<a href="[https://example.com](https://popiconbin.ru/)">
+  <img src="https://img.shields.io/badge/Site-PopIconBin-black?style=for-the-badge" />
 </a>
 </div>
 
