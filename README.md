@@ -48,6 +48,7 @@ https://github.com/user-attachments/assets/d30e5f32-3c20-4ac3-a799-0d4e7d13b19e
 3. Working with the second icon, you create a new file with the same resolution and the same transparent layer. You perform the same manipulations, but now overlay the second cat on top of the first one to roughly estimate how smoothly and seamlessly “without jumps” the icon will change. Tried it? Remove the background (the previous cat) from the canvas and then save the second cat with the open mouth.
 <details>
   <summary>3</summary>
+  
 https://github.com/user-attachments/assets/35bf9faf-8c3b-4059-987b-e214322e2567
 
 </details>
@@ -109,6 +110,7 @@ https://github.com/user-attachments/assets/d30e5f32-3c20-4ac3-a799-0d4e7d13b19e
 
 <details>
   <summary>3</summary>
+  
 https://github.com/user-attachments/assets/35bf9faf-8c3b-4059-987b-e214322e2567
 
 </details>
