@@ -1,31 +1,52 @@
-приостановлено на начале, возможен переход на 4.8 Net framework/suspended at the beginning, possible transition to 4.8 Net framework
 
+
+
+<div align="center">
 
 # PopIcon
 
+<img src="https://github.com/user-attachments/assets/4ea0a7bb-7b7e-4715-80f6-691358eb7d6b"
+     width="180" height="180" alt="PopIcon" />
+<br/><br/>
+<a href="../../releases/latest">
+  <img src="https://img.shields.io/badge/Download-5%20MB-blue?style=for-the-badge" />
+</a>
+<a href="https://boosty.to/eukerka">
+  <img src="https://img.shields.io/badge/Boosty-donate🙏-orange?style=for-the-badge" />
+</a>
+<a href="https://example.com">
+  <img src="https://img.shields.io/badge/Site-PopIcon-black?style=for-the-badge" />
+</a>
+</div>
+
+
 PopIcon is a lightweight and convenient Windows application that allows you to quickly customize the Recycle Bin icon. Apply the desired Recycle Bin icon quickly, without the need for manual configuration or changing [system settings](https://github.com/elmoiv/PopCat.exe).
 
-# Download
+# Download ⬇️
 
 
-# **Key features**
+**Requirements**
+- Windows 10 / 11
+- .NET Framework 4.8
+
+**Download**
+- 👉 [Download latest release](../../releases/latest)     / [![Download](https://img.shields.io/badge/Download-5%20MB-blue?style=for-the-badge)](https://example.com/install-160mb) 
+
+
+
+# **Key features** ✨
 - Library: Choose from a built-in collection of funny icons for empty and full Recycle Bins.
 - Your own icons: Upload your own .ico files and install them.
 - Simplicity: Intuitive interface and one-click icon application.
 - Return to default: You won't break the basic trash can icon. (Not that it's anything to brag about, but why not?) 
 
-# Download
-- Не требуется библиотека NET 8, 64 битная система Windows 10/11
-[![Download](https://img.shields.io/badge/Download-160%20MB-blue?style=for-the-badge)](https://example.com/install-160mb) 
-- Требуется установить библиотеку NET 8, 64 битная система Windows 10/11
-[![Download](https://img.shields.io/badge/Download-6%20MB-blue?style=for-the-badge)](https://example.com/install-6mb)
-# **How to use it?**
+# **How to use it?** 🎨
 1. Launch the app.
 2. Select an icon from the library or click Choose custom icon to specify your own files for the empty and full trash cans.
 3. Click Apply. Done!
 ![Desktop 20-01-2026 0-20-30](https://github.com/user-attachments/assets/c3882900-fd25-484b-a29a-38a494c63bba)
 
-# How to create your own icon?
+# How to create your own icon? 🛠️
 
 For an example, you can check out [this video](https://youtu.be/wox4ytUFHrU?si=kqaeMKpSAPT1QjwX)
 
@@ -61,33 +82,39 @@ This is required so that the Recycle Bin displays correctly in different cases. 
 
 !Note! — the icon that I made may not be completely seamless; you must definitely do better. If you do not have a second instance of the icon, you can safely ask any AI (I recommend ChatGPT) to generate a second instance with a very widely open mouth, and in about 70% of cases the AI will manage.
 
-# Thanks
+# Thanks 🙏
 This project was inspired by the Pop Cat Bin utility by [dudetechitout](https://popcatbin.com/). Thanks to him for the great idea! 
 
+# Русское описание - спойлер снизу
 
 <details>
-  <summary>РусскЫй</summary>
+  <summary>открой спойлер</summary>
 
 
-  PopIcon — это лёгкое и удобное приложение для Windows, которое позволяет быстро кастомизировать иконку корзины. Без необходимости [ручной настройки](https://github.com/elmoiv/PopCat.exe) или изменения системных параметров быстро примените желаемую иконку корзины.
-# Установка
-- Не требуется библиотека NET 8, 64 битная система Windows 10/11
-[![Установить](https://img.shields.io/badge/Установить-160%20MB-blue?style=for-the-badge)](https://example.com/install-160mb) 
-- Требуется установить библиотеку NET 8, 64 битная система Windows 10/11
-[![Установить](https://img.shields.io/badge/Установить-6%20MB-blue?style=for-the-badge)](https://example.com/install-6mb)
 
-# **Ключевые возможности**
+  PopIcon — это лёгкое и удобное приложение для Windows, которое позволяет быстро кастомизировать иконку корзины. Без необходимости [ручной настройки](https://github.com/elmoiv/PopCat.exe) и изменения системных параметров вручную вы можете быстро применить желаемую иконку.
+
+# Установка ⬇️
+
+**Требования/Рекомендации**
+- Windows 10 / 11
+- .NET Framework 4.8
+
+**Установка**
+- 👉 [Нажми чтобы установить](../../releases/latest)     / [![Download](https://img.shields.io/badge/Download-5%20MB-blue?style=for-the-badge)](https://example.com/install-160mb) 
+
+# **Ключевые возможности** ✨
 - Библиотека: Выбирайте из встроенной коллекции забавных иконок для пустой и полной Корзины.
 - Свои иконки: Загружайте собственные файлы в формате .ico и устанавливайте их.
 - Простота: Интуитивно понятный интерфейс и применение иконок в один клик.
 - Возврат к стандарту: Вы не сломаете базовую иконку корзины. (Хотя тут нечем хвастаться, но почему нет?) 
-# **Как пользоваться?**
+# **Как пользоваться?** 🛠️
 1. Запустите приложение.
 2. Выберите иконку из библиотеки или нажмите Choose custom icon, чтобы указать свои файлы для пустой и полной корзины.
 3. Нажмите Apply. Готово!
 ![Desktop 20-01-2026 0-20-30](https://github.com/user-attachments/assets/c3882900-fd25-484b-a29a-38a494c63bba)
 
-# Как создать свою иконку?
+# Как создать свою иконку? 🎨
 
 Для примера вы можете ознакомиться с [этим видео](https://youtu.be/wox4ytUFHrU?si=kqaeMKpSAPT1QjwX) 
 
@@ -122,7 +149,7 @@ https://github.com/user-attachments/assets/35bf9faf-8c3b-4059-987b-e214322e2567
 Это нужно, чтобы корзина правильно отображалась в разных случаях. (Как? Об этом есть в [этом видео](https://youtu.be/wox4ytUFHrU?si=kqaeMKpSAPT1QjwX))
 
 !Примечание! - иконка , что сделал я, возможно не совсем бесшовная, вы обязательно должны сделать лучше. В случае если у вас нету второго экземляра иконки, то вы можете спокойно попросить любое ИИ (Я рекомендую ChatGPT) сгенерировать 2 экземляр с очень сильно открытым ртом и в 70% случаев ИИ справится.
-# Благодарности
+# Благодарности 🙏
 Этот проект был вдохновлён утилитой Pop Cat Bin от автора [dudetechitout](https://popcatbin.com/). Спасибо ему за отличную идею! 
 
 
