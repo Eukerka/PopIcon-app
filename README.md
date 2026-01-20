@@ -40,13 +40,13 @@ PopIcon is a lightweight and convenient Windows application that allows you to q
 - Simplicity: Intuitive interface and one-click icon application.
 - Return to default: You won't break the basic trash can icon. (Not that it's anything to brag about, but why not?) 
 
-# **How to use it?** 🎨
+# **How to use it?** 🛠️
 1. Launch the app.
 2. Select an icon from the library or click Choose custom icon to specify your own files for the empty and full trash cans.
 3. Click Apply. Done!
 ![Desktop 20-01-2026 0-20-30](https://github.com/user-attachments/assets/c3882900-fd25-484b-a29a-38a494c63bba)
 
-# How to create your own icon? 🛠️
+# How to create your own icon? 🎨
 
 For an example, you can check out [this video](https://youtu.be/wox4ytUFHrU?si=kqaeMKpSAPT1QjwX)
 
