@@ -60,7 +60,7 @@ I take this image as an example — it contains two instances of the cat, and ev
 
 1. In Photoshop, we create an empty layer with the specified resolution of 256x256 (transparent, in any way) <img width="313" height="568" alt="2026-01-20_02-01-52" src="https://github.com/user-attachments/assets/dbada679-c41d-406b-b4fb-def634b5f7ea" />
 
-2. From our example image, we first cut out the closed-mouth version — remove the background from the cropped part, scale the closed-mouth cat (problems may occur when you try to fit the second cat), and get the finished first instance. Save it.
+2. From our example image(spoiler below 1/2), we first cut out the closed-mouth version — remove the background from the cropped part, scale the closed-mouth cat (problems may occur when you try to fit the second cat), and get the finished first instance. Save it.
 
 <details>
   <summary>2</summary>
@@ -124,7 +124,7 @@ This project was inspired by the Pop Cat Bin utility by [dudetechitout](https://
 
 В нашем случае мы чаще всего будем использовать котов, существ, картошек фри и наггетсов. 
 
-Беру в пример эту картинку - в ней 2 экземляра кота, и хоть есть небольшие отличия(фотошоп в помощь, накладываете на закрытый рот открытый и аккуратно убираете ненужные части и корректируете), они одинаковы. 
+Беру в пример эту картинку(2 спойлера 1/2 снизу) - в ней 2 экземляра кота, и хоть есть небольшие отличия(фотошоп в помощь, накладываете на закрытый рот открытый и аккуратно убираете ненужные части и корректируете), они одинаковы. 
 
 1. В фотошопе мы создаем пустой слой c заданным разрешением 256х256 (прозрачный, любым способом) <img width="313" height="568" alt="2026-01-20_02-01-52" src="https://github.com/user-attachments/assets/dbada679-c41d-406b-b4fb-def634b5f7ea" />
 2. С нашей картинки-примера вырезаем сначала закрытый рот - убираем фон с обрезанной части, растягиваем кота-закрытый рот(возможны проблемы, когда вы будете примерять второго кота) и получаем готовый экземляр номер один. Cохраняем.
