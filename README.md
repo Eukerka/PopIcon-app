@@ -14,7 +14,7 @@
 <a href="https://boosty.to/eukerka">
   <img src="https://img.shields.io/badge/Boosty-donate🙏-orange?style=for-the-badge" />
 </a>
-<a href="[https://example.com](https://popiconbin.ru/)">
+<a href="https://popiconbin.ru">
   <img src="https://img.shields.io/badge/Site-PopIconBin-black?style=for-the-badge" />
 </a>
 </div>
