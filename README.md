@@ -1,3 +1,6 @@
+приостановлено на начале, возможен переход на 4.8 Net framework/suspended at the beginning, possible transition to 4.8 Net framework
+
+
 # PopIcon
 
 PopIcon is a lightweight and convenient Windows application that allows you to quickly customize the Recycle Bin icon. Apply the desired Recycle Bin icon quickly, without the need for manual configuration or changing [system settings](https://github.com/elmoiv/PopCat.exe).
